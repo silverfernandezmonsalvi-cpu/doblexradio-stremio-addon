@@ -1,0 +1,12 @@
+{
+  "name": "doblexradio-stremio-addon",
+  "version": "1.0.0",
+  "description": "Doble X Radio Stremio Addon",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
